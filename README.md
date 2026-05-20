@@ -14,7 +14,7 @@ I work across the stack: **React / Next.js** and **Laravel / PHP** on the web,
 the backend. I care about clean architecture, maintainable code, and shipping features
 that hold up in production.
 
-- 💼 CEO @ [Hititans](https://hitians.com)
+- 💼 CEO @ [Hititans](https://hititans.com)
 - 🌍 Based in Lebanon
 - 🧩 Focus: full-stack web & mobile, e-commerce & SaaS platforms
 - 🛠️ Comfortable owning a project from idea to deployment
@@ -45,7 +45,7 @@ that hold up in production.
 
 - 📧 **Email:** [mawla.dev@gmail.com](mailto:mawla.dev@gmail.com)
 - 💼 **LinkedIn:** [mawla-developer-flutter](https://www.linkedin.com/in/mawla-developer-flutter/)
-- 🌐 **Website:** [hitians.com](https://hitians.com)
+- 🌐 **Website:** [hititans.com](https://hititans.com)
 
 <!--
   Tip: the GitHub Stats cards above only count PUBLIC repositories by default.
