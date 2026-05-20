@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Al-Mawla 👋</h1>
-<p align="center">Software Engineer · 📍 Lebanon</p>
+<p align="center">Software Engineer · CEO @ Hititans · 📍 Lebanon</p>
 
 ---
 
@@ -10,9 +10,11 @@ applications end to end — e-commerce platforms, booking systems, and marketpla
 from database design and APIs to polished, responsive UIs.
 
 I work across the stack: **React / Next.js** and **Laravel / PHP** on the web,
-**Flutter** for mobile, and **Supabase / Java** services on the backend. I care about
-clean architecture, maintainable code, and shipping features that hold up in production.
+**Flutter** for mobile, **Magento 2** for commerce, and **Supabase / Java** services on
+the backend. I care about clean architecture, maintainable code, and shipping features
+that hold up in production.
 
+- 💼 CEO @ [Hititans](https://hitians.com)
 - 🌍 Based in Lebanon
 - 🧩 Focus: full-stack web & mobile, e-commerce & SaaS platforms
 - 🛠️ Comfortable owning a project from idea to deployment
@@ -30,6 +32,7 @@ clean architecture, maintainable code, and shipping features that hold up in pro
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?style=flat&logo=magento&logoColor=white)
 
 ### 📊 GitHub Stats
 
@@ -41,7 +44,8 @@ clean architecture, maintainable code, and shipping features that hold up in pro
 ### 📫 Connect
 
 - 📧 **Email:** [mawla.dev@gmail.com](mailto:mawla.dev@gmail.com)
-- 💼 **LinkedIn:** <!-- TODO: paste your LinkedIn URL below --> [your-linkedin](https://www.linkedin.com/in/your-handle)
+- 💼 **LinkedIn:** [mawla-developer-flutter](https://www.linkedin.com/in/mawla-developer-flutter/)
+- 🌐 **Website:** [hitians.com](https://hitians.com)
 
 <!--
   Tip: the GitHub Stats cards above only count PUBLIC repositories by default.
