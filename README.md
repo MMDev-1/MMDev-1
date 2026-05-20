@@ -1,10 +1,21 @@
 <h1 align="center">Hi, I'm Mohammad Al-Mawla 👋</h1>
-<p align="center">Software Engineer</p>
+<p align="center">Software Engineer · 📍 Lebanon</p>
 
 ---
 
-I build production web and mobile applications end to end — e-commerce platforms,
-booking systems, and marketplaces — from database design to polished UI.
+### 👨‍💻 About
+
+Software engineer with **6+ years** of experience building production web and mobile
+applications end to end — e-commerce platforms, booking systems, and marketplaces —
+from database design and APIs to polished, responsive UIs.
+
+I work across the stack: **React / Next.js** and **Laravel / PHP** on the web,
+**Flutter** for mobile, and **Supabase / Java** services on the backend. I care about
+clean architecture, maintainable code, and shipping features that hold up in production.
+
+- 🌍 Based in Lebanon
+- 🧩 Focus: full-stack web & mobile, e-commerce & SaaS platforms
+- 🛠️ Comfortable owning a project from idea to deployment
 
 ### 🛠️ Tech Stack
 
